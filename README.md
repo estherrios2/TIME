@@ -64,3 +64,6 @@ time.displayRunProcesses()
 # IV. TIME Walkthrough
 
 https://youtu.be/OqaQlwodN3U
+
+
+TIME project was developed by Anderson Roman, Leslie Soto, and Esther Rios for the ICOM4036 Course given by Professor Wilson Rivera. 
