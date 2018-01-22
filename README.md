@@ -60,3 +60,7 @@ Another example is that of top where the command displays all of the running pro
 system. With T.I.M.E., it should be written as:
 
 time.displayRunProcesses()
+
+# TIME Walkthrough
+
+https://youtu.be/OqaQlwodN3U
