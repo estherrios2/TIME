@@ -66,4 +66,4 @@ time.displayRunProcesses()
 https://youtu.be/OqaQlwodN3U
 
 # Note:
-TIME project was developed by Anderson Roman, Leslie Soto, and Esther Rios for the ICOM4036 Course given by Professor Wilson Rivera. 
+TIME project was developed by Anderson Roman, Leslie Soto, and Esther Rios for the ICOM4036 Course given by Professor Wilson Rivera at the University of Puerto Rico, Mayaguez Campus.
