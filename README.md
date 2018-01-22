@@ -32,21 +32,16 @@ Students often have the difficulty of remembering these commands and understandi
 behind it. Not because a command is shorter and abbreviated means that these are easier to
 remember. The system commands, written in UNIX, to be implemented are the following:
 
-• finger user – display user information
-• man [Options] – show command manual
-	§ Options:
-		Ø -f files – display a summary (one line) for each file
-		Ø -k keywords – displays the header lines that contain any of the keywords
-
-• df – present disk usage
-• du – display directory space utilization
-
-For process management, the commands that will be made available are:
-• ps [Options] – show all current active processes
-	§ Options:
-		Ø -c – displays scheduler data
-		Ø -e – displays all processes
-• top – present all running processes
+1. time.displayInformation(user_goes_here) //display user information
+2. time.manual() //show command manual
+3. time.manualSummary(files_go_here) //display a summary (one line) for each file
+4. time.manualHeaders(keywords_go_here) //displays the header lines that contain any of the keywords
+5. time.diskUsage() //present disk usage
+6. time.space() //display directory space utilization
+7. time.activeProcesses() //show all current active processes
+8. time.allProcesses() //displays all processes
+9. time.schedulerData() //displays scheduler data
+10. time.runningProcesses() //present all running processes
 
 These shell operations will be incorporated as T.I.M.E.’s features through a readable structure
 and syntax that will only work for the Linux operating system. This programming language can
