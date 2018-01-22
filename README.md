@@ -44,8 +44,7 @@ remember. The system commands, written in UNIX, to be implemented are the follow
 10. time.runningProcesses() //present all running processes
 
 These shell operations will be incorporated as T.I.M.E.’s features through a readable structure
-and syntax that will only work for the Linux operating system. This programming language can
-be written in any available text editor as long as its file extension is .time.
+and syntax that will only work for the Linux operating system.
 
 # III. Example of a Program
 
